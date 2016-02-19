@@ -1,7 +1,7 @@
 name: Instacams
 favicon: null
-layout_spectrum: 0.8765471996739507
-typography_spectrum: 0.2946520915720612
+layout_spectrum: 1
+typography_spectrum: 0.61925
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#4078b9'
+    - '#ffffff'
+    - '#6c99d2'
+    - '#9db8d7'
+    - '#d2ddea'
   brandStrength: 0.33300523832440376
   lightness: 0.8550943997688591
   saturation: 0.10271583823487163
